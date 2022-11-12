@@ -22,7 +22,7 @@ function MoviesList({searchValue}){
     useEffect (()=>{
         async function FetchMovieData(){
            try{
-              const response = await fetch(`http://www.omdbapi.com/?s=${searchValue}&apikey=b3fe5d9b`)
+              const response = await fetch(`https://www.omdbapi.com/?s=${searchValue}&apikey=b3fe5d9b`)
               const resp= await response.json()
               setMoviesList (resp.Search)
               console.log(searchValue)
