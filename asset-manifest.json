@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ehikaroka/static/css/main.6e59f581.css",
-    "main.js": "/ehikaroka/static/js/main.2e9fadc8.js",
+    "main.js": "/ehikaroka/static/js/main.09711f1a.js",
     "static/js/787.bc1ffa41.chunk.js": "/ehikaroka/static/js/787.bc1ffa41.chunk.js",
     "index.html": "/ehikaroka/index.html",
     "main.6e59f581.css.map": "/ehikaroka/static/css/main.6e59f581.css.map",
-    "main.2e9fadc8.js.map": "/ehikaroka/static/js/main.2e9fadc8.js.map",
+    "main.09711f1a.js.map": "/ehikaroka/static/js/main.09711f1a.js.map",
     "787.bc1ffa41.chunk.js.map": "/ehikaroka/static/js/787.bc1ffa41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e59f581.css",
-    "static/js/main.2e9fadc8.js"
+    "static/js/main.09711f1a.js"
   ]
 }
